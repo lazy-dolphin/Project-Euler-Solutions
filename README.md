@@ -3,7 +3,7 @@ My attempt at solving Project Euler problems.
 
 | Problem ID | Status    |
 | ---------- | --------- |
-| 1          | Incorrect |
+| 1          | Correct   |
 | 2          | Correct   |
 | 3          | Correct   |
 | 4          | -         |
