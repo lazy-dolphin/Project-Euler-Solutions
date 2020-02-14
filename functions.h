@@ -7,3 +7,4 @@ void fibonacci();
 void largest_prime_factor();
 void smallest_divisible_number();
 void difference();
+void greatest_product();

@@ -11,10 +11,10 @@ void fibonacci()
 		c = a+b;
 	}
 	if(!(a%2))
-		printf("Sum will be %d", (c-1)/2);
+		printf("%d\n", (c-1)/2);
 	else if(!(b%2))
-		printf("Sum will be %d", (b+c-1)/2);
+		printf("%d\n", (b+c-1)/2);
 	else
-		printf("Sum will be %d", (b+2*c-1)/2);
+		printf("%d\n", (b+2*c-1)/2);
 }
 

@@ -15,5 +15,5 @@ void smallest_divisible_number()
 		}
 		prod *= p[i];
 	}
-	printf("%u", prod);
+	printf("%u\n", prod);
 }

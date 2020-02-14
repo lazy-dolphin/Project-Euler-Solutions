@@ -9,5 +9,5 @@ void largest_prime_factor()
 		while(!(num % i))
 			num /= i;
 	}
-	printf("Largest prime factor is: %lld", i);
+	printf("%lld\n", i);
 }
